@@ -1,0 +1,17 @@
+p {
+    background-color: lightpink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+#A1{
+    font-size: 24px;
+}
+
+#B1{
+    color: blue;
+    font-size: 36px;
+}
+#B2{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
